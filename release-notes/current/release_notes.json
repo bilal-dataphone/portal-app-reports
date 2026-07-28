@@ -12,5 +12,19 @@
     "summary": null,
     "published": false,
     "release": null
+  },
+  {
+    "app": "reports",
+    "pr": 2,
+    "title": "Fixed date parsing for scheduling",
+    "description": "",
+    "author": "bilal-dataphone",
+    "mergedAt": "2026-07-28T12:05:35Z",
+    "labels": [
+      "bug"
+    ],
+    "summary": null,
+    "published": false,
+    "release": null
   }
 ]
