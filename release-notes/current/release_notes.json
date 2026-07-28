@@ -1,0 +1,16 @@
+[
+  {
+    "app": "reports",
+    "pr": 1,
+    "title": "Added custom reports and scheduling",
+    "description": "",
+    "author": "bilal-dataphone",
+    "mergedAt": "2026-07-28T12:04:36Z",
+    "labels": [
+      "feature"
+    ],
+    "summary": null,
+    "published": false,
+    "release": null
+  }
+]
